@@ -3,42 +3,44 @@ import "./styles/Work.css";
 import WorkImage from "./WorkImage";
 import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
+const base = import.meta.env.BASE_URL;
+
 const projects = [
   {
     title: "Cancer Detection ML",
     category: "Medical Image Processing",
     tools: "Python, Machine Learning, Image Processing",
-    image: "/images/cancer_detection.png",
+    image: `${base}images/cancer_detection.png`,
   },
   {
     title: "Blood Clotting Device",
     category: "Point-of-Care Device",
     tools: "Hardware Design, Biosensors, Embedded Systems",
-    image: "/images/blood_clotting.png",
+    image: `${base}images/blood_clotting.png`,
   },
   {
     title: "Epileptic Seizure Detection",
     category: "EEG Signal Analysis",
     tools: "Python, Machine Learning, Signal Processing",
-    image: "/images/seizure_detection.png",
+    image: `${base}images/seizure_detection.png`,
   },
   {
     title: "Non-Invasive Urine Analysis",
     category: "Sensor-Based Health Screening",
     tools: "Biosensors, ML Classification, Odor & Color Analysis",
-    image: "/images/urine_analysis.png",
+    image: `${base}images/urine_analysis.png`,
   },
   {
     title: "Stubble Burning Prediction",
     category: "Geospatial & Environmental AI",
     tools: "Satellite Data, ML Modeling, Alert Systems",
-    image: "/images/stubble_burning.png",
+    image: `${base}images/stubble_burning.png`,
   },
   {
     title: "Unauthorized Land Detection",
     category: "Satellite-Driven AI System",
     tools: "Deep Learning, Satellite Imagery, Spatial Analysis",
-    image: "/images/land_detection.png",
+    image: `${base}images/land_detection.png`,
   },
 ];
 
