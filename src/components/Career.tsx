@@ -15,43 +15,57 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Project Intern</h4>
+                <h5>AVBRH Hospital, Wardha</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Worked with a five-member team to analyze departmental processes,
+              identify key issues, propose solutions, and document insights to
+              improve operational efficiency.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Hardware Intern</h4>
+                <h5>DeepFacts Pvt Ltd, Hyderabad</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Worked on biomedical device development, assisting in hardware
+              design, testing, and optimization to support innovative healthcare
+              technology solutions.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>AIML Intern</h4>
+                <h5>Sky Highes Technologies, Nagpur</h5>
+              </div>
+              <h3>2025</h3>
+            </div>
+            <p>
+              Contributed to AI and machine learning projects by assisting in
+              model development, data preprocessing, and performance evaluation
+              with real-world AI applications.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Research Intern</h4>
+                <h5>Tai Foundation, Mumbai</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Focused on geospatial analytics and machine learning, contributing
+              to data-driven environmental research through satellite data
+              processing, feature extraction, and model development.
             </p>
           </div>
         </div>

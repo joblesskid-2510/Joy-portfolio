@@ -87,22 +87,23 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>AI & ML</h3>
+              <h4>Intelligent Solutions</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Building machine learning models for healthcare diagnostics,
+                geospatial analytics, and environmental monitoring. From EEG
+                signal classification to satellite imagery analysis.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">Machine Learning</div>
+                <div className="what-tags">Deep Learning</div>
+                <div className="what-tags">SQL</div>
+                <div className="what-tags">Google Colab</div>
+                <div className="what-tags">Kaggle</div>
+                <div className="what-tags">Anaconda</div>
+                <div className="what-tags">Streamlit</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +127,23 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>BIOMEDICAL</h3>
+              <h4>Healthcare Innovation</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Designing biomedical devices, working with biosensors and
+                embedded systems, and applying tissue engineering concepts to
+                build point-of-care healthcare solutions.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">Biosensors</div>
+                <div className="what-tags">Embedded Systems</div>
+                <div className="what-tags">Hardware Design</div>
+                <div className="what-tags">Tissue Engineering</div>
+                <div className="what-tags">Bio-materials</div>
+                <div className="what-tags">Biomechanics</div>
+                <div className="what-tags">Actuators</div>
+                <div className="what-tags">Postman</div>
               </div>
               <div className="what-arrow"></div>
             </div>
